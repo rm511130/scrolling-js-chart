@@ -9,5 +9,5 @@ JavaScript Scrolling XY Chart
 
 And that's it!
 
-![](chart.png)
+![](chart.gif)
 
